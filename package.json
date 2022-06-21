@@ -1,0 +1,22 @@
+{
+  "name": "ift-t-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoNekoru/IFT-T-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoNekoru/IFT-T-Bot/issues"
+  },
+  "homepage": "https://github.com/NicoNekoru/IFT-T-Bot#readme",
+  "dependencies": {
+    "battlefy-api": "^1.1.0"
+  }
+}
