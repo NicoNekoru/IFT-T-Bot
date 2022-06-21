@@ -1,5 +1,5 @@
 const https = require('https');
-const tID = '6294655911b353351fccda2a'; //Put tournament ID here https://battlefy.com/team-tsd/overunder-tetrio-doubles/<id>
+const tID = ''; //Put tournament ID here https://battlefy.com/team-tsd/overunder-tetrio-doubles/<id>
 const fs = require('fs');
 bfa = require("battlefy-api");
 function getPromise(path)
